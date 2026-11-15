@@ -1,8 +1,8 @@
 # 🔥 3-Year GitHub Contribution Streak & Dev Vault
 
 [![3-Year Streak Goal](https://img.shields.io/badge/Goal-3%20Years%20(1095%20Days)-blueviolet?style=for-the-badge&logo=target)](https://github.com/AyushOp05/daily-streak)
-[![Streak Days](https://img.shields.io/badge/Current%20Streak-Day%206-orange?style=for-the-badge&logo=fire)](https://github.com/AyushOp05/daily-streak)
-[![Total Pushes](https://img.shields.io/badge/Pushes-25-brightgreen?style=for-the-badge&logo=github)](https://github.com/AyushOp05/daily-streak)
+[![Streak Days](https://img.shields.io/badge/Current%20Streak-Day%207-orange?style=for-the-badge&logo=fire)](https://github.com/AyushOp05/daily-streak)
+[![Total Pushes](https://img.shields.io/badge/Pushes-26-brightgreen?style=for-the-badge&logo=github)](https://github.com/AyushOp05/daily-streak)
 [![Workflow Status](https://github.com/AyushOp05/daily-streak/actions/workflows/streak.yml/badge.svg)](https://github.com/AyushOp05/daily-streak/actions)
 
 Welcome to the **3-Year Unbroken GitHub Streak Tracker** of [@AyushOp05](https://github.com/AyushOp05)!  
@@ -11,7 +11,7 @@ This project is engineered to publish daily computer science concepts, algorithm
 ---
 
 ### ⏳ 3-Year Progress Tracker
-`[░░░░░░░░░░░░░░░░░░░░]` **6 / 1095 Days** (0.55%)
+`[░░░░░░░░░░░░░░░░░░░░]` **7 / 1095 Days** (0.64%)
 
 | Target Goal | Start Date | Target Completion Date | Status |
 | :--- | :--- | :--- | :--- |
@@ -20,7 +20,7 @@ This project is engineered to publish daily computer science concepts, algorithm
 ---
 
 ### 🏆 3-Year Milestone Roadmap
-- [ ] **Day 7:** Week 1 Kickoff
+- [x] **Day 7:** Week 1 Kickoff 🏆
 - [ ] **Day 30:** 1 Month Unbroken
 - [ ] **Day 100:** 100-Day Century
 - [ ] **Day 365:** Year 1 Milestone
@@ -29,9 +29,9 @@ This project is engineered to publish daily computer science concepts, algorithm
 
 ---
 
-### 💡 Day 6 Tech Byte: `Dynamic Programming`
-> **Category:** `Algorithms`  
-> **Key Insight:** Solves complex problems by breaking them into overlapping subproblems with optimal substructure. Memoization (top-down) and tabulation (bottom-up) eliminate redundant computation.
+### 💡 Day 7 Tech Byte: `Disjoint Set Union (DSU)`
+> **Category:** `Data Structures`  
+> **Key Insight:** DSU or Union-Find tracks elements partitioned into disjoint subsets. With path compression and union by rank, operations run in nearly O(1) amortized time (inverse Ackermann function α(n)).
 
 ---
 
@@ -39,6 +39,7 @@ This project is engineered to publish daily computer science concepts, algorithm
 
 | Day & Date | Category | Topic | Insight |
 | :--- | :--- | :--- | :--- |
+| Day 7 (2026-11-16) | `Data Structures` | **Disjoint Set Union (DSU)** | DSU or Union-Find tracks elements partitioned into disjoint subsets. With path compression and union by rank, operations run in nearly O(1) amortized time (inverse Ackermann function α(n)). |
 | Day 6 (2026-11-15) | `Algorithms` | **Dynamic Programming** | Solves complex problems by breaking them into overlapping subproblems with optimal substructure. Memoization (top-down) and tabulation (bottom-up) eliminate redundant computation. |
 | Day 5 (2026-11-14) | `Data Structures` | **Segment Tree** | A tree data structure for storing intervals or segments, allowing querying range sum/min/max and point/range updates in O(log n) time. |
 | Day 4 (2026-11-13) | `Algorithms` | **Binary Search** | Divides the search interval in half repeatedly on sorted collections, running in logarithmic time O(log n). Always watch out for integer overflow: use mid = low + (high - low) // 2. |
