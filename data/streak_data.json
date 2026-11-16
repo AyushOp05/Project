@@ -2,11 +2,20 @@
   "streak_start": "2026-11-10",
   "target_days": 1095,
   "target_end_date": "2029-11-10",
-  "total_updates": 29,
-  "current_streak": 7,
-  "last_updated_utc": "2026-11-16 14:00:40 UTC",
-  "last_updated_ist": "2026-11-16 07:30:40 PM IST",
+  "total_updates": 30,
+  "current_streak": 8,
+  "last_updated_utc": "2026-11-16 19:38:44 UTC",
+  "last_updated_ist": "2026-11-17 01:08:44 AM IST",
   "history": [
+    {
+      "day": 8,
+      "date": "2026-11-17",
+      "time_utc": "2026-11-16 19:38:44 UTC",
+      "time_ist": "2026-11-17 01:08:44 AM IST",
+      "category": "Algorithms",
+      "topic": "Floyd's Cycle Detection",
+      "insight": "Also known as the Tortoise and Hare algorithm, uses two pointers moving at different speeds (1 step and 2 steps) to detect cycles in linked lists in O(n) time and O(1) space."
+    },
     {
       "day": 7,
       "date": "2026-11-16",

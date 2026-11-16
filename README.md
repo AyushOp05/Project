@@ -1,8 +1,8 @@
 # 🔥 3-Year GitHub Contribution Streak & Dev Vault
 
 [![3-Year Streak Goal](https://img.shields.io/badge/Goal-3%20Years%20(1095%20Days)-blueviolet?style=for-the-badge&logo=target)](https://github.com/AyushOp05/daily-streak)
-[![Streak Days](https://img.shields.io/badge/Current%20Streak-Day%207-orange?style=for-the-badge&logo=fire)](https://github.com/AyushOp05/daily-streak)
-[![Total Pushes](https://img.shields.io/badge/Pushes-29-brightgreen?style=for-the-badge&logo=github)](https://github.com/AyushOp05/daily-streak)
+[![Streak Days](https://img.shields.io/badge/Current%20Streak-Day%208-orange?style=for-the-badge&logo=fire)](https://github.com/AyushOp05/daily-streak)
+[![Total Pushes](https://img.shields.io/badge/Pushes-30-brightgreen?style=for-the-badge&logo=github)](https://github.com/AyushOp05/daily-streak)
 [![Workflow Status](https://github.com/AyushOp05/daily-streak/actions/workflows/streak.yml/badge.svg)](https://github.com/AyushOp05/daily-streak/actions)
 
 Welcome to the **3-Year Unbroken GitHub Streak Tracker** of [@AyushOp05](https://github.com/AyushOp05)!  
@@ -11,7 +11,7 @@ This project is engineered to publish daily computer science concepts, algorithm
 ---
 
 ### ⏳ 3-Year Progress Tracker
-`[░░░░░░░░░░░░░░░░░░░░]` **7 / 1095 Days** (0.64%)
+`[░░░░░░░░░░░░░░░░░░░░]` **8 / 1095 Days** (0.73%)
 
 | Target Goal | Start Date | Target Completion Date | Status |
 | :--- | :--- | :--- | :--- |
@@ -29,9 +29,9 @@ This project is engineered to publish daily computer science concepts, algorithm
 
 ---
 
-### 💡 Day 7 Tech Byte: `Disjoint Set Union (DSU)`
-> **Category:** `Data Structures`  
-> **Key Insight:** DSU or Union-Find tracks elements partitioned into disjoint subsets. With path compression and union by rank, operations run in nearly O(1) amortized time (inverse Ackermann function α(n)).
+### 💡 Day 8 Tech Byte: `Floyd's Cycle Detection`
+> **Category:** `Algorithms`  
+> **Key Insight:** Also known as the Tortoise and Hare algorithm, uses two pointers moving at different speeds (1 step and 2 steps) to detect cycles in linked lists in O(n) time and O(1) space.
 
 ---
 
@@ -39,6 +39,7 @@ This project is engineered to publish daily computer science concepts, algorithm
 
 | Day & Date | Category | Topic | Insight |
 | :--- | :--- | :--- | :--- |
+| Day 8 (2026-11-17) | `Algorithms` | **Floyd's Cycle Detection** | Also known as the Tortoise and Hare algorithm, uses two pointers moving at different speeds (1 step and 2 steps) to detect cycles in linked lists in O(n) time and O(1) space. |
 | Day 7 (2026-11-16) | `Data Structures` | **Disjoint Set Union (DSU)** | DSU or Union-Find tracks elements partitioned into disjoint subsets. With path compression and union by rank, operations run in nearly O(1) amortized time (inverse Ackermann function α(n)). |
 | Day 6 (2026-11-15) | `Algorithms` | **Dynamic Programming** | Solves complex problems by breaking them into overlapping subproblems with optimal substructure. Memoization (top-down) and tabulation (bottom-up) eliminate redundant computation. |
 | Day 5 (2026-11-14) | `Data Structures` | **Segment Tree** | A tree data structure for storing intervals or segments, allowing querying range sum/min/max and point/range updates in O(log n) time. |
