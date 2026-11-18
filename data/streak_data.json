@@ -2,11 +2,20 @@
   "streak_start": "2026-11-10",
   "target_days": 1095,
   "target_end_date": "2029-11-10",
-  "total_updates": 40,
-  "current_streak": 9,
-  "last_updated_utc": "2026-11-18 18:08:00 UTC",
-  "last_updated_ist": "2026-11-18 11:38:00 PM IST",
+  "total_updates": 41,
+  "current_streak": 10,
+  "last_updated_utc": "2026-11-18 21:35:55 UTC",
+  "last_updated_ist": "2026-11-19 03:05:55 AM IST",
   "history": [
+    {
+      "day": 10,
+      "date": "2026-11-19",
+      "time_utc": "2026-11-18 21:35:55 UTC",
+      "time_ist": "2026-11-19 03:05:55 AM IST",
+      "category": "Algorithms",
+      "topic": "Topological Sort",
+      "insight": "Produces a linear ordering of vertices in a Directed Acyclic Graph (DAG) such that for every directed edge (u, v), vertex u comes before v. Solved using Kahn's algorithm (indegree) or DFS."
+    },
     {
       "day": 9,
       "date": "2026-11-18",
