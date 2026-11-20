@@ -2,11 +2,20 @@
   "streak_start": "2026-11-10",
   "target_days": 1095,
   "target_end_date": "2029-11-10",
-  "total_updates": 50,
-  "current_streak": 11,
-  "last_updated_utc": "2026-11-20 17:50:35 UTC",
-  "last_updated_ist": "2026-11-20 11:20:35 PM IST",
+  "total_updates": 51,
+  "current_streak": 12,
+  "last_updated_utc": "2026-11-20 21:31:32 UTC",
+  "last_updated_ist": "2026-11-21 03:01:32 AM IST",
   "history": [
+    {
+      "day": 12,
+      "date": "2026-11-21",
+      "time_utc": "2026-11-20 21:31:32 UTC",
+      "time_ist": "2026-11-21 03:01:32 AM IST",
+      "category": "Algorithms",
+      "topic": "Two-Pointer Technique",
+      "insight": "Uses two references to traverse an array or string from opposite ends or at varying speeds, reducing quadratic O(n^2) search spaces to linear O(n)."
+    },
     {
       "day": 11,
       "date": "2026-11-20",

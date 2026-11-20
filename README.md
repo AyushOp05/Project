@@ -1,8 +1,8 @@
 # 🔥 3-Year GitHub Contribution Streak & Dev Vault
 
 [![3-Year Streak Goal](https://img.shields.io/badge/Goal-3%20Years%20(1095%20Days)-blueviolet?style=for-the-badge&logo=target)](https://github.com/AyushOp05/daily-streak)
-[![Streak Days](https://img.shields.io/badge/Current%20Streak-Day%2011-orange?style=for-the-badge&logo=fire)](https://github.com/AyushOp05/daily-streak)
-[![Total Pushes](https://img.shields.io/badge/Pushes-50-brightgreen?style=for-the-badge&logo=github)](https://github.com/AyushOp05/daily-streak)
+[![Streak Days](https://img.shields.io/badge/Current%20Streak-Day%2012-orange?style=for-the-badge&logo=fire)](https://github.com/AyushOp05/daily-streak)
+[![Total Pushes](https://img.shields.io/badge/Pushes-51-brightgreen?style=for-the-badge&logo=github)](https://github.com/AyushOp05/daily-streak)
 [![Workflow Status](https://github.com/AyushOp05/daily-streak/actions/workflows/streak.yml/badge.svg)](https://github.com/AyushOp05/daily-streak/actions)
 
 Welcome to the **3-Year Unbroken GitHub Streak Tracker** of [@AyushOp05](https://github.com/AyushOp05)!  
@@ -11,7 +11,7 @@ This project is engineered to publish daily computer science concepts, algorithm
 ---
 
 ### ⏳ 3-Year Progress Tracker
-`[░░░░░░░░░░░░░░░░░░░░]` **11 / 1095 Days** (1.00%)
+`[░░░░░░░░░░░░░░░░░░░░]` **12 / 1095 Days** (1.10%)
 
 | Target Goal | Start Date | Target Completion Date | Status |
 | :--- | :--- | :--- | :--- |
@@ -29,9 +29,9 @@ This project is engineered to publish daily computer science concepts, algorithm
 
 ---
 
-### 💡 Day 11 Tech Byte: `Binary Heap / Priority Queue`
-> **Category:** `Data Structures`  
-> **Key Insight:** A complete binary tree satisfying the heap property. Min-heaps allow O(1) peek, O(log n) insert and extraction, fundamental for Dijkstra and heap sort.
+### 💡 Day 12 Tech Byte: `Two-Pointer Technique`
+> **Category:** `Algorithms`  
+> **Key Insight:** Uses two references to traverse an array or string from opposite ends or at varying speeds, reducing quadratic O(n^2) search spaces to linear O(n).
 
 ---
 
@@ -39,6 +39,7 @@ This project is engineered to publish daily computer science concepts, algorithm
 
 | Day & Date | Category | Topic | Insight |
 | :--- | :--- | :--- | :--- |
+| Day 12 (2026-11-21) | `Algorithms` | **Two-Pointer Technique** | Uses two references to traverse an array or string from opposite ends or at varying speeds, reducing quadratic O(n^2) search spaces to linear O(n). |
 | Day 11 (2026-11-20) | `Data Structures` | **Binary Heap / Priority Queue** | A complete binary tree satisfying the heap property. Min-heaps allow O(1) peek, O(log n) insert and extraction, fundamental for Dijkstra and heap sort. |
 | Day 10 (2026-11-19) | `Algorithms` | **Topological Sort** | Produces a linear ordering of vertices in a Directed Acyclic Graph (DAG) such that for every directed edge (u, v), vertex u comes before v. Solved using Kahn's algorithm (indegree) or DFS. |
 | Day 9 (2026-11-18) | `Data Structures` | **LRU Cache** | Combines a doubly linked list with a hash map to achieve O(1) get and put operations while maintaining access order for eviction. |
@@ -48,7 +49,6 @@ This project is engineered to publish daily computer science concepts, algorithm
 | Day 5 (2026-11-14) | `Data Structures` | **Segment Tree** | A tree data structure for storing intervals or segments, allowing querying range sum/min/max and point/range updates in O(log n) time. |
 | Day 4 (2026-11-13) | `Algorithms` | **Binary Search** | Divides the search interval in half repeatedly on sorted collections, running in logarithmic time O(log n). Always watch out for integer overflow: use mid = low + (high - low) // 2. |
 | Day 3 (2026-11-12) | `Data Structures` | **Trie (Prefix Tree)** | A tree-like data structure used for efficient retrieval of keys in a dataset of strings, ideal for autocomplete and spell-checkers with O(L) lookup where L is word length. |
-| Day 2 (2026-11-11) | `Algorithms` | **Dijkstra's Algorithm** | Finds the single-source shortest path in weighted graphs with non-negative edges using a min-heap in O((V + E) log V) time. |
 
 ---
 
