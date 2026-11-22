@@ -1,8 +1,8 @@
 # 🔥 3-Year GitHub Contribution Streak & Dev Vault
 
 [![3-Year Streak Goal](https://img.shields.io/badge/Goal-3%20Years%20(1095%20Days)-blueviolet?style=for-the-badge&logo=target)](https://github.com/AyushOp05/daily-streak)
-[![Streak Days](https://img.shields.io/badge/Current%20Streak-Day%2013-orange?style=for-the-badge&logo=fire)](https://github.com/AyushOp05/daily-streak)
-[![Total Pushes](https://img.shields.io/badge/Pushes-60-brightgreen?style=for-the-badge&logo=github)](https://github.com/AyushOp05/daily-streak)
+[![Streak Days](https://img.shields.io/badge/Current%20Streak-Day%2014-orange?style=for-the-badge&logo=fire)](https://github.com/AyushOp05/daily-streak)
+[![Total Pushes](https://img.shields.io/badge/Pushes-61-brightgreen?style=for-the-badge&logo=github)](https://github.com/AyushOp05/daily-streak)
 [![Workflow Status](https://github.com/AyushOp05/daily-streak/actions/workflows/streak.yml/badge.svg)](https://github.com/AyushOp05/daily-streak/actions)
 
 Welcome to the **3-Year Unbroken GitHub Streak Tracker** of [@AyushOp05](https://github.com/AyushOp05)!  
@@ -11,7 +11,7 @@ This project is engineered to publish daily computer science concepts, algorithm
 ---
 
 ### ⏳ 3-Year Progress Tracker
-`[░░░░░░░░░░░░░░░░░░░░]` **13 / 1095 Days** (1.19%)
+`[░░░░░░░░░░░░░░░░░░░░]` **14 / 1095 Days** (1.28%)
 
 | Target Goal | Start Date | Target Completion Date | Status |
 | :--- | :--- | :--- | :--- |
@@ -29,9 +29,9 @@ This project is engineered to publish daily computer science concepts, algorithm
 
 ---
 
-### 💡 Day 13 Tech Byte: `Monotonic Stack`
-> **Category:** `Data Structures`  
-> **Key Insight:** Maintains elements in strictly increasing or decreasing order. Essential for solving 'Next Greater Element' and largest rectangle in histogram in O(n).
+### 💡 Day 14 Tech Byte: `KMP String Matching`
+> **Category:** `Algorithms`  
+> **Key Insight:** Knuth-Morris-Pratt algorithm searches for occurrences of a word within a main text in O(n + m) time using a precomputed longest prefix-suffix (LPS) array.
 
 ---
 
@@ -39,6 +39,7 @@ This project is engineered to publish daily computer science concepts, algorithm
 
 | Day & Date | Category | Topic | Insight |
 | :--- | :--- | :--- | :--- |
+| Day 14 (2026-11-23) | `Algorithms` | **KMP String Matching** | Knuth-Morris-Pratt algorithm searches for occurrences of a word within a main text in O(n + m) time using a precomputed longest prefix-suffix (LPS) array. |
 | Day 13 (2026-11-22) | `Data Structures` | **Monotonic Stack** | Maintains elements in strictly increasing or decreasing order. Essential for solving 'Next Greater Element' and largest rectangle in histogram in O(n). |
 | Day 12 (2026-11-21) | `Algorithms` | **Two-Pointer Technique** | Uses two references to traverse an array or string from opposite ends or at varying speeds, reducing quadratic O(n^2) search spaces to linear O(n). |
 | Day 11 (2026-11-20) | `Data Structures` | **Binary Heap / Priority Queue** | A complete binary tree satisfying the heap property. Min-heaps allow O(1) peek, O(log n) insert and extraction, fundamental for Dijkstra and heap sort. |
@@ -48,7 +49,6 @@ This project is engineered to publish daily computer science concepts, algorithm
 | Day 7 (2026-11-16) | `Data Structures` | **Disjoint Set Union (DSU)** | DSU or Union-Find tracks elements partitioned into disjoint subsets. With path compression and union by rank, operations run in nearly O(1) amortized time (inverse Ackermann function α(n)). |
 | Day 6 (2026-11-15) | `Algorithms` | **Dynamic Programming** | Solves complex problems by breaking them into overlapping subproblems with optimal substructure. Memoization (top-down) and tabulation (bottom-up) eliminate redundant computation. |
 | Day 5 (2026-11-14) | `Data Structures` | **Segment Tree** | A tree data structure for storing intervals or segments, allowing querying range sum/min/max and point/range updates in O(log n) time. |
-| Day 4 (2026-11-13) | `Algorithms` | **Binary Search** | Divides the search interval in half repeatedly on sorted collections, running in logarithmic time O(log n). Always watch out for integer overflow: use mid = low + (high - low) // 2. |
 
 ---
 
