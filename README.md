@@ -1,8 +1,8 @@
 # 🔥 3-Year GitHub Contribution Streak & Dev Vault
 
 [![3-Year Streak Goal](https://img.shields.io/badge/Goal-3%20Years%20(1095%20Days)-blueviolet?style=for-the-badge&logo=target)](https://github.com/AyushOp05/daily-streak)
-[![Streak Days](https://img.shields.io/badge/Current%20Streak-Day%2014-orange?style=for-the-badge&logo=fire)](https://github.com/AyushOp05/daily-streak)
-[![Total Pushes](https://img.shields.io/badge/Pushes-64-brightgreen?style=for-the-badge&logo=github)](https://github.com/AyushOp05/daily-streak)
+[![Streak Days](https://img.shields.io/badge/Current%20Streak-Day%2015-orange?style=for-the-badge&logo=fire)](https://github.com/AyushOp05/daily-streak)
+[![Total Pushes](https://img.shields.io/badge/Pushes-65-brightgreen?style=for-the-badge&logo=github)](https://github.com/AyushOp05/daily-streak)
 [![Workflow Status](https://github.com/AyushOp05/daily-streak/actions/workflows/streak.yml/badge.svg)](https://github.com/AyushOp05/daily-streak/actions)
 
 Welcome to the **3-Year Unbroken GitHub Streak Tracker** of [@AyushOp05](https://github.com/AyushOp05)!  
@@ -11,7 +11,7 @@ This project is engineered to publish daily computer science concepts, algorithm
 ---
 
 ### ⏳ 3-Year Progress Tracker
-`[░░░░░░░░░░░░░░░░░░░░]` **14 / 1095 Days** (1.28%)
+`[░░░░░░░░░░░░░░░░░░░░]` **15 / 1095 Days** (1.37%)
 
 | Target Goal | Start Date | Target Completion Date | Status |
 | :--- | :--- | :--- | :--- |
@@ -29,9 +29,9 @@ This project is engineered to publish daily computer science concepts, algorithm
 
 ---
 
-### 💡 Day 14 Tech Byte: `KMP String Matching`
+### 💡 Day 15 Tech Byte: `A* Search Algorithm`
 > **Category:** `Algorithms`  
-> **Key Insight:** Knuth-Morris-Pratt algorithm searches for occurrences of a word within a main text in O(n + m) time using a precomputed longest prefix-suffix (LPS) array.
+> **Key Insight:** An extension of Dijkstra's algorithm that uses heuristics (f(n) = g(n) + h(n)) to intelligently guide graph search toward the goal with optimal paths.
 
 ---
 
@@ -39,6 +39,7 @@ This project is engineered to publish daily computer science concepts, algorithm
 
 | Day & Date | Category | Topic | Insight |
 | :--- | :--- | :--- | :--- |
+| Day 15 (2026-11-24) | `Algorithms` | **A* Search Algorithm** | An extension of Dijkstra's algorithm that uses heuristics (f(n) = g(n) + h(n)) to intelligently guide graph search toward the goal with optimal paths. |
 | Day 14 (2026-11-23) | `Algorithms` | **KMP String Matching** | Knuth-Morris-Pratt algorithm searches for occurrences of a word within a main text in O(n + m) time using a precomputed longest prefix-suffix (LPS) array. |
 | Day 13 (2026-11-22) | `Data Structures` | **Monotonic Stack** | Maintains elements in strictly increasing or decreasing order. Essential for solving 'Next Greater Element' and largest rectangle in histogram in O(n). |
 | Day 12 (2026-11-21) | `Algorithms` | **Two-Pointer Technique** | Uses two references to traverse an array or string from opposite ends or at varying speeds, reducing quadratic O(n^2) search spaces to linear O(n). |
@@ -48,7 +49,6 @@ This project is engineered to publish daily computer science concepts, algorithm
 | Day 8 (2026-11-17) | `Algorithms` | **Floyd's Cycle Detection** | Also known as the Tortoise and Hare algorithm, uses two pointers moving at different speeds (1 step and 2 steps) to detect cycles in linked lists in O(n) time and O(1) space. |
 | Day 7 (2026-11-16) | `Data Structures` | **Disjoint Set Union (DSU)** | DSU or Union-Find tracks elements partitioned into disjoint subsets. With path compression and union by rank, operations run in nearly O(1) amortized time (inverse Ackermann function α(n)). |
 | Day 6 (2026-11-15) | `Algorithms` | **Dynamic Programming** | Solves complex problems by breaking them into overlapping subproblems with optimal substructure. Memoization (top-down) and tabulation (bottom-up) eliminate redundant computation. |
-| Day 5 (2026-11-14) | `Data Structures` | **Segment Tree** | A tree data structure for storing intervals or segments, allowing querying range sum/min/max and point/range updates in O(log n) time. |
 
 ---
 
