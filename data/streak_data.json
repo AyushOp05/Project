@@ -2,16 +2,16 @@
   "streak_start": "2026-11-10",
   "target_days": 1095,
   "target_end_date": "2029-11-10",
-  "total_updates": 63,
+  "total_updates": 64,
   "current_streak": 14,
-  "last_updated_utc": "2026-11-23 10:44:03 UTC",
-  "last_updated_ist": "2026-11-23 04:14:03 PM IST",
+  "last_updated_utc": "2026-11-23 16:29:55 UTC",
+  "last_updated_ist": "2026-11-23 09:59:55 PM IST",
   "history": [
     {
       "day": 14,
       "date": "2026-11-23",
-      "time_utc": "2026-11-23 10:44:03 UTC",
-      "time_ist": "2026-11-23 04:14:03 PM IST",
+      "time_utc": "2026-11-23 16:29:55 UTC",
+      "time_ist": "2026-11-23 09:59:55 PM IST",
       "category": "Algorithms",
       "topic": "KMP String Matching",
       "insight": "Knuth-Morris-Pratt algorithm searches for occurrences of a word within a main text in O(n + m) time using a precomputed longest prefix-suffix (LPS) array."
