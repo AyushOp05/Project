@@ -1,8 +1,8 @@
 # 🔥 3-Year GitHub Contribution Streak & Dev Vault
 
 [![3-Year Streak Goal](https://img.shields.io/badge/Goal-3%20Years%20(1095%20Days)-blueviolet?style=for-the-badge&logo=target)](https://github.com/AyushOp05/daily-streak)
-[![Streak Days](https://img.shields.io/badge/Current%20Streak-Day%2015-orange?style=for-the-badge&logo=fire)](https://github.com/AyushOp05/daily-streak)
-[![Total Pushes](https://img.shields.io/badge/Pushes-69-brightgreen?style=for-the-badge&logo=github)](https://github.com/AyushOp05/daily-streak)
+[![Streak Days](https://img.shields.io/badge/Current%20Streak-Day%2016-orange?style=for-the-badge&logo=fire)](https://github.com/AyushOp05/daily-streak)
+[![Total Pushes](https://img.shields.io/badge/Pushes-70-brightgreen?style=for-the-badge&logo=github)](https://github.com/AyushOp05/daily-streak)
 [![Workflow Status](https://github.com/AyushOp05/daily-streak/actions/workflows/streak.yml/badge.svg)](https://github.com/AyushOp05/daily-streak/actions)
 
 Welcome to the **3-Year Unbroken GitHub Streak Tracker** of [@AyushOp05](https://github.com/AyushOp05)!  
@@ -11,7 +11,7 @@ This project is engineered to publish daily computer science concepts, algorithm
 ---
 
 ### ⏳ 3-Year Progress Tracker
-`[░░░░░░░░░░░░░░░░░░░░]` **15 / 1095 Days** (1.37%)
+`[░░░░░░░░░░░░░░░░░░░░]` **16 / 1095 Days** (1.46%)
 
 | Target Goal | Start Date | Target Completion Date | Status |
 | :--- | :--- | :--- | :--- |
@@ -29,9 +29,9 @@ This project is engineered to publish daily computer science concepts, algorithm
 
 ---
 
-### 💡 Day 15 Tech Byte: `A* Search Algorithm`
-> **Category:** `Algorithms`  
-> **Key Insight:** An extension of Dijkstra's algorithm that uses heuristics (f(n) = g(n) + h(n)) to intelligently guide graph search toward the goal with optimal paths.
+### 💡 Day 16 Tech Byte: `CAP Theorem`
+> **Category:** `System Design`  
+> **Key Insight:** In a distributed system experiencing a network partition (P), you can guarantee either Consistency (C) or Availability (A), but never both simultaneously.
 
 ---
 
@@ -39,6 +39,7 @@ This project is engineered to publish daily computer science concepts, algorithm
 
 | Day & Date | Category | Topic | Insight |
 | :--- | :--- | :--- | :--- |
+| Day 16 (2026-11-25) | `System Design` | **CAP Theorem** | In a distributed system experiencing a network partition (P), you can guarantee either Consistency (C) or Availability (A), but never both simultaneously. |
 | Day 15 (2026-11-24) | `Algorithms` | **A* Search Algorithm** | An extension of Dijkstra's algorithm that uses heuristics (f(n) = g(n) + h(n)) to intelligently guide graph search toward the goal with optimal paths. |
 | Day 14 (2026-11-23) | `Algorithms` | **KMP String Matching** | Knuth-Morris-Pratt algorithm searches for occurrences of a word within a main text in O(n + m) time using a precomputed longest prefix-suffix (LPS) array. |
 | Day 13 (2026-11-22) | `Data Structures` | **Monotonic Stack** | Maintains elements in strictly increasing or decreasing order. Essential for solving 'Next Greater Element' and largest rectangle in histogram in O(n). |
@@ -48,7 +49,6 @@ This project is engineered to publish daily computer science concepts, algorithm
 | Day 9 (2026-11-18) | `Data Structures` | **LRU Cache** | Combines a doubly linked list with a hash map to achieve O(1) get and put operations while maintaining access order for eviction. |
 | Day 8 (2026-11-17) | `Algorithms` | **Floyd's Cycle Detection** | Also known as the Tortoise and Hare algorithm, uses two pointers moving at different speeds (1 step and 2 steps) to detect cycles in linked lists in O(n) time and O(1) space. |
 | Day 7 (2026-11-16) | `Data Structures` | **Disjoint Set Union (DSU)** | DSU or Union-Find tracks elements partitioned into disjoint subsets. With path compression and union by rank, operations run in nearly O(1) amortized time (inverse Ackermann function α(n)). |
-| Day 6 (2026-11-15) | `Algorithms` | **Dynamic Programming** | Solves complex problems by breaking them into overlapping subproblems with optimal substructure. Memoization (top-down) and tabulation (bottom-up) eliminate redundant computation. |
 
 ---
 
