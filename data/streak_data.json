@@ -2,11 +2,20 @@
   "streak_start": "2026-11-10",
   "target_days": 1095,
   "target_end_date": "2029-11-10",
-  "total_updates": 74,
-  "current_streak": 16,
-  "last_updated_utc": "2026-11-25 16:07:09 UTC",
-  "last_updated_ist": "2026-11-25 09:37:09 PM IST",
+  "total_updates": 75,
+  "current_streak": 17,
+  "last_updated_utc": "2026-11-25 19:20:40 UTC",
+  "last_updated_ist": "2026-11-26 12:50:40 AM IST",
   "history": [
+    {
+      "day": 17,
+      "date": "2026-11-26",
+      "time_utc": "2026-11-25 19:20:40 UTC",
+      "time_ist": "2026-11-26 12:50:40 AM IST",
+      "category": "System Design",
+      "topic": "Consistent Hashing",
+      "insight": "Distributes keys across nodes using a hash ring. When nodes are added or removed, only k/n keys need remapping on average, minimizing cache churn in distributed caches."
+    },
     {
       "day": 16,
       "date": "2026-11-25",
