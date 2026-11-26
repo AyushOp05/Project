@@ -2,11 +2,20 @@
   "streak_start": "2026-11-10",
   "target_days": 1095,
   "target_end_date": "2029-11-10",
-  "total_updates": 79,
-  "current_streak": 17,
-  "last_updated_utc": "2026-11-26 15:47:54 UTC",
-  "last_updated_ist": "2026-11-26 09:17:54 PM IST",
+  "total_updates": 80,
+  "current_streak": 18,
+  "last_updated_utc": "2026-11-26 19:04:12 UTC",
+  "last_updated_ist": "2026-11-27 12:34:12 AM IST",
   "history": [
+    {
+      "day": 18,
+      "date": "2026-11-27",
+      "time_utc": "2026-11-26 19:04:12 UTC",
+      "time_ist": "2026-11-27 12:34:12 AM IST",
+      "category": "System Design",
+      "topic": "Message Queues (Kafka / RabbitMQ)",
+      "insight": "Decouples producers from consumers, provides backpressure buffering, and ensures asynchronous processing and horizontal scalability under heavy traffic spikes."
+    },
     {
       "day": 17,
       "date": "2026-11-26",
