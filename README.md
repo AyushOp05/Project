@@ -1,8 +1,8 @@
 # 🔥 3-Year GitHub Contribution Streak & Dev Vault
 
 [![3-Year Streak Goal](https://img.shields.io/badge/Goal-3%20Years%20(1095%20Days)-blueviolet?style=for-the-badge&logo=target)](https://github.com/AyushOp05/daily-streak)
-[![Streak Days](https://img.shields.io/badge/Current%20Streak-Day%2018-orange?style=for-the-badge&logo=fire)](https://github.com/AyushOp05/daily-streak)
-[![Total Pushes](https://img.shields.io/badge/Pushes-84-brightgreen?style=for-the-badge&logo=github)](https://github.com/AyushOp05/daily-streak)
+[![Streak Days](https://img.shields.io/badge/Current%20Streak-Day%2019-orange?style=for-the-badge&logo=fire)](https://github.com/AyushOp05/daily-streak)
+[![Total Pushes](https://img.shields.io/badge/Pushes-85-brightgreen?style=for-the-badge&logo=github)](https://github.com/AyushOp05/daily-streak)
 [![Workflow Status](https://github.com/AyushOp05/daily-streak/actions/workflows/streak.yml/badge.svg)](https://github.com/AyushOp05/daily-streak/actions)
 
 Welcome to the **3-Year Unbroken GitHub Streak Tracker** of [@AyushOp05](https://github.com/AyushOp05)!  
@@ -11,7 +11,7 @@ This project is engineered to publish daily computer science concepts, algorithm
 ---
 
 ### ⏳ 3-Year Progress Tracker
-`[░░░░░░░░░░░░░░░░░░░░]` **18 / 1095 Days** (1.64%)
+`[░░░░░░░░░░░░░░░░░░░░]` **19 / 1095 Days** (1.74%)
 
 | Target Goal | Start Date | Target Completion Date | Status |
 | :--- | :--- | :--- | :--- |
@@ -29,9 +29,9 @@ This project is engineered to publish daily computer science concepts, algorithm
 
 ---
 
-### 💡 Day 18 Tech Byte: `Message Queues (Kafka / RabbitMQ)`
+### 💡 Day 19 Tech Byte: `Database Sharding`
 > **Category:** `System Design`  
-> **Key Insight:** Decouples producers from consumers, provides backpressure buffering, and ensures asynchronous processing and horizontal scalability under heavy traffic spikes.
+> **Key Insight:** Horizontally partitions a database into smaller, faster pieces called shards across multiple database servers to overcome single-machine storage and throughput limits.
 
 ---
 
@@ -39,6 +39,7 @@ This project is engineered to publish daily computer science concepts, algorithm
 
 | Day & Date | Category | Topic | Insight |
 | :--- | :--- | :--- | :--- |
+| Day 19 (2026-11-28) | `System Design` | **Database Sharding** | Horizontally partitions a database into smaller, faster pieces called shards across multiple database servers to overcome single-machine storage and throughput limits. |
 | Day 18 (2026-11-27) | `System Design` | **Message Queues (Kafka / RabbitMQ)** | Decouples producers from consumers, provides backpressure buffering, and ensures asynchronous processing and horizontal scalability under heavy traffic spikes. |
 | Day 17 (2026-11-26) | `System Design` | **Consistent Hashing** | Distributes keys across nodes using a hash ring. When nodes are added or removed, only k/n keys need remapping on average, minimizing cache churn in distributed caches. |
 | Day 16 (2026-11-25) | `System Design` | **CAP Theorem** | In a distributed system experiencing a network partition (P), you can guarantee either Consistency (C) or Availability (A), but never both simultaneously. |
@@ -48,7 +49,6 @@ This project is engineered to publish daily computer science concepts, algorithm
 | Day 12 (2026-11-21) | `Algorithms` | **Two-Pointer Technique** | Uses two references to traverse an array or string from opposite ends or at varying speeds, reducing quadratic O(n^2) search spaces to linear O(n). |
 | Day 11 (2026-11-20) | `Data Structures` | **Binary Heap / Priority Queue** | A complete binary tree satisfying the heap property. Min-heaps allow O(1) peek, O(log n) insert and extraction, fundamental for Dijkstra and heap sort. |
 | Day 10 (2026-11-19) | `Algorithms` | **Topological Sort** | Produces a linear ordering of vertices in a Directed Acyclic Graph (DAG) such that for every directed edge (u, v), vertex u comes before v. Solved using Kahn's algorithm (indegree) or DFS. |
-| Day 9 (2026-11-18) | `Data Structures` | **LRU Cache** | Combines a doubly linked list with a hash map to achieve O(1) get and put operations while maintaining access order for eviction. |
 
 ---
 
